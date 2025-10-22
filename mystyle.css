@@ -124,6 +124,16 @@ input,textarea{width: 75%;
 }
 label{width: 20%;
 }
+.shop-name{
+    color: #000;
+    font-size: 35px;
+    margin-left: 400px;
+}
+.Locate{display: flex;
+    justify-content: space-evenly;
+    border: 5px solid #000;
+}
+
 /*courses*/
 .course-body{
     font-family: arial;
@@ -178,7 +188,7 @@ label{width: 20%;
         margin-left: 1%;
         padding-left: 3%;
 }
-.input-control{width: 30px;
+.input-container{width: 30px;
     font-size: large;
      border: 2px solid red;
 }
@@ -190,7 +200,7 @@ label{width: 20%;
         font-size: 30px;
 
 }
-textarea{
+.textarea-container{
         height: 200px;
         width: 400px;
 }
